@@ -3,7 +3,7 @@
 <!--
 **Piyushraj7982/Piyushraj7982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+who i'm 🖥️:
 
 - 📖 I am currently pursuing MCA from TIMSCDR (Mumbai University)...
 - 🌱 I’m currently learning Front end development and Data Analytics ...
