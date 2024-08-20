@@ -71,7 +71,12 @@ Here are some of my favorite projects that I've worked on:
 </div>
 
 ###
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,mongo,cpp,java,git,github">
+</p>
 
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushraj7982&layout=compact&theme=blue-green)
 
 ###
 
