@@ -90,8 +90,3 @@ Here are some of my favorite projects that I've worked on:
 - 🎵 When I'm not coding, you might find me playing the cricket or exploring new music.
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Piyushraj7982&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Piyushraj7982&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushraj7982&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
